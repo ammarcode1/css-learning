@@ -1,0 +1,17 @@
+/* Style the main heading */
+h1 {
+    color: darkblue;
+    font-size: 36px;
+}
+
+/* Style the paragraphs */
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+/* Style the second heading */
+h2 {
+    color: darkgreen;
+    font-size: 28px;
+}

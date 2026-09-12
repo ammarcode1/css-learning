@@ -1,0 +1,62 @@
+/* Element selector */
+p {
+    color: gray;
+}
+
+/* Class selector */
+.section-heading {
+    color: darkgreen;
+}
+
+/* ID selector */
+#main-title {
+    color: darkblue;
+}
+
+/* Another ID selector */
+#special-heading {
+    color: darkred;
+}
+
+/* Grouping selectors */
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Same class used on different elements */
+.highlight {
+    background-color: rgb(228, 176, 176);
+}
+
+/* Class + element selector */
+.card p {
+    color: purple;
+}
+
+.program {
+    color: rgb(172, 172, 187);
+}
+
+#main {
+    color: red;
+}
+
+.sub-headings h2{
+    color: blue;
+}
+
+.sub-headings p {
+    color: brown;
+}
+
+p {
+    color: purple;
+}
+
+h2 {
+    color: black;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+}

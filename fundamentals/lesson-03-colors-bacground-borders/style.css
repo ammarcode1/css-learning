@@ -1,0 +1,33 @@
+/* Style the page */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Style the main heading */
+h1 {
+    color: darkblue;
+}
+
+/* Style normal paragraphs */
+p {
+    color: #444;
+}
+
+/* Style the card */
+.card {
+    color: #222;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/* Style the information section */
+.info {
+    background-color: lightblue;
+    border: 1px solid blue;
+    border-radius: 8px;
+}
+
+body {
+    background-image: url("background.jpg");
+}

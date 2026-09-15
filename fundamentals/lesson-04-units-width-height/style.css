@@ -1,0 +1,27 @@
+/* Style the page */
+body {
+    font-size: 16px;
+}
+
+/* Main heading */
+h1 {
+    font-size: 2rem;
+    color: red;
+}
+
+/* Fixed width and height */
+.fixed-box {
+    width: 300px;
+    height: 150px;
+}
+
+/* Percentage-based width */
+.percentage-box {
+    width: 60%;
+}
+
+/* Responsive container */
+.container {
+    width: 90%;
+    max-width: 800px;
+}

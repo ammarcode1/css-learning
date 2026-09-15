@@ -6,7 +6,8 @@ This repository documents my journey of learning CSS from fundamentals to practi
 
 - Lesson 01 — CSS Introduction + Syntax + Ways to Add CSS
 - Lesson 02 — CSS Selectors
-- Lesson 03 — Colors + Backgrounds + Borders
+- Lesson 03 — CSS Colors + Backgrounds + Borders
+- Lesson 04 — CSS Units + Width/Height
 
 ## 📁 Repository Structure
 

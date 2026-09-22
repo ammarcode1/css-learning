@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CSS Lesson 07 - Display, Visibility & Overflow</title>
+
+    <!-- Connect the external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Main heading -->
+    <h1>Display, Visibility & Overflow</h1>
+
+    <!-- Change inline elements to block -->
+    <section class="display-section">
+
+        <h2>Inline to Block</h2>
+
+        <span class="block-span">First Item</span>
+        <span class="block-span">Second Item</span>
+        <span class="block-span">Third Item</span>
+
+    </section>
+
+    <!-- Change block elements to inline -->
+    <section class="display-section">
+
+        <h2>Block to Inline</h2>
+
+        <div class="inline-box">Box 1</div>
+        <div class="inline-box">Box 2</div>
+        <div class="inline-box">Box 3</div>
+
+    </section>
+
+    <!-- Inline-block example -->
+    <section class="display-section">
+
+        <h2>Inline-Block Cards</h2>
+
+        <div class="card">Card 1</div>
+        <div class="card">Card 2</div>
+        <div class="card">Card 3</div>
+
+    </section>
+
+    <!-- Visibility example -->
+    <section class="display-section">
+
+        <h2>Visibility</h2>
+
+        <p>Visible paragraph.</p>
+
+        <!-- Hidden but its space remains -->
+        <p class="hidden-message">This paragraph is hidden.</p>
+
+        <p>Another visible paragraph.</p>
+
+    </section>
+
+    <!-- Display none example -->
+    <section class="display-section">
+
+        <h2>Display None</h2>
+
+        <p>First paragraph.</p>
+
+        <!-- Hidden and its space is removed -->
+        <p class="removed-message">This paragraph is removed from the layout.</p>
+
+        <p>Second paragraph.</p>
+
+    </section>
+
+    <!-- Overflow example -->
+    <section class="display-section">
+
+        <h2>Overflow</h2>
+
+        <div class="overflow-box">
+            This box has a fixed height, but this paragraph contains
+            more text than the box can normally display. The overflow
+            property controls what happens when content does not fit
+            inside the available space.
+        </div>
+
+    </section>
+
+</body>
+
+</html>

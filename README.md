@@ -10,6 +10,7 @@ This repository documents my journey of learning CSS from fundamentals to practi
 - Lesson 04 — CSS Units + Width/Height
 - Lesson 05 — CSS Box Model + Padding + Margin
 - Lesson 06 — CSS Text + Fonts
+- Lesson 07 — CSS Display + Visibility + Overflow
 
 ## 📁 Repository Structure
 

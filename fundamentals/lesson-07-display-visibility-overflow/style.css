@@ -1,0 +1,54 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Give sections some separation */
+.display-section {
+    margin-bottom: 30px;
+}
+
+/* Change inline spans into block elements */
+.block-span {
+    display: block;
+    width: 300px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: lightblue;
+}
+
+/* Change block divs into inline elements */
+.inline-box {
+    display: inline;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+/* Inline-block cards */
+.card {
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+    background-color: lightyellow;
+    border: 2px solid black;
+}
+
+/* Hide the element but keep its space */
+.hidden-message {
+    visibility: hidden;
+}
+
+/* Hide the element and remove its space */
+.removed-message {
+    display: none;
+}
+
+/* Allow scrolling when content does not fit */
+.overflow-box {
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    border: 2px solid black;
+    overflow: auto;
+}

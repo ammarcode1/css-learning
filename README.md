@@ -9,6 +9,7 @@ This repository documents my journey of learning CSS from fundamentals to practi
 - Lesson 03 — CSS Colors + Backgrounds + Borders
 - Lesson 04 — CSS Units + Width/Height
 - Lesson 05 — CSS Box Model + Padding + Margin
+- Lesson 06 — CSS Text + Fonts
 
 ## 📁 Repository Structure
 

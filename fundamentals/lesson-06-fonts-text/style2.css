@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 2rem;
+    color: Red;
+    text-align: center;
+}
+
+.study {
+    background-color: yellow;
+    border: 3px solid black;
+    padding: 1rem;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.study h2 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.study p {
+    color: brown;
+    font-weight: 700;
+}
+
+.goals {
+    background-color: blanchedalmond;
+    border: 3px solid orange;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.goals h2 {
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.goals p {
+    color: blueviolet;
+    font-weight: bold;
+    line-height: 1.6;
+    letter-spacing: 2px;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: rgb(197, 7, 149);
+}

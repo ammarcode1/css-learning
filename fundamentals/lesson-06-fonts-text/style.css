@@ -1,0 +1,70 @@
+/* Apply the main font to the whole page */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: #c06161;
+}
+
+/* Style the main heading */
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Style the profile card */
+.profile-card {
+    width: 350px;
+    padding: 24px;
+    margin: 30px;
+    background-color: rgb(145, 187, 20);
+    border: 3px solid #741818;
+    border-radius: 12px;
+}
+
+/* Style the student name */
+.profile-card h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* Style the description */
+.profile-card p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+/* Style the role */
+.role {
+    font-style: italic;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+/* Style the profile link */
+.profile-card a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+/* Style the goals section */
+.goals {
+    width: 350px;
+    padding: 24px;
+    margin: 30px;
+    background-color: rgb(137, 21, 21);
+    border-radius: 12px;
+    border: 3px solid black;
+}
+
+/* Style the goals heading */
+.goals h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Improve paragraph readability */
+.goals p {
+    line-height: 1.9;
+}
